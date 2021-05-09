@@ -42,3 +42,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Test App
+(https://netflix-clone-app-test.web.app/)
+
+### App review
+<img width="1433" alt="Screenshot at May 09 12-51-17" src="https://user-images.githubusercontent.com/53138280/117567550-54a3d100-b0c5-11eb-93d4-dc6f77421e79.png">
+
+### Authorization
+![2_electr_Nagorsky_Korzun (1)](https://user-images.githubusercontent.com/53138280/117567415-f2e36700-b0c4-11eb-9a07-9fc0c5a3bfef.png)
+
+
